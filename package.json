@@ -1,6 +1,6 @@
 {
   "name": "written-in-stars",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "my first package. H/T Samer Buna",
   "main": "index.js",
   "scripts": {
