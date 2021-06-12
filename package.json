@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Ola",
-  "license": "ISC"
+  "author": "Ola Oredola",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ola-dola/written-in-stars.git"
+  }
 }

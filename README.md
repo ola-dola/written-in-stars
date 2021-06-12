@@ -1,4 +1,4 @@
-# Basic utility to frame text in stars in the console.
+## Basic utility to frame text in stars in the console.
 ### This is a dummy package to learn publishing to npmjs registry.
 
 ### How to use:
